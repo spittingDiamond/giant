@@ -1,0 +1,33 @@
+#h2intro {
+ text-transform:lowercase ;
+}
+
+#h3intro {
+    text-transform:capitalize;
+}
+
+#h4intro {
+    text-transform:capitalize;
+}
+#pjw {
+    text-transform:capitalize;
+}
+
+p.academic-ref {
+    /* font: italic bold 23px/30px Georgia, serif; */
+    text-align: left;
+    text-transform:uppercase;
+    font-size: small;
+    font-weight: bold;
+}
+
+p.title-text {
+/* 
+    font: italic bold 23px/30px Georgia, serif; 
+    text-transform:uppercase;
+    text-align: left;
+    font-weight: bold;
+    medium|xx-small|x-small|small|large|x-large|xx-large
+*/
+    font-size: x-large;
+}
